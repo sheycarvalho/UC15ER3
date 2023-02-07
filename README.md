@@ -4,9 +4,9 @@
 
 <h3>Características</h3>
 <ul>
-  <li>Testes server-sidea</li>
+  <li>Testes server-side</li>
   <li>Planejamento de testes server-side</li>
-  <li>CAnálise do docuemnto de requisitos</li>
+  <li>Análise do docuemnto de requisitos</li>
   <li>Conceitos fundamentais</li>
   <li>Tipos de testes</li>
   <li>Técnicas de testes</li>
@@ -14,7 +14,6 @@
   <li>Frameworks de teste em sistemas server-side</li>
   <li>Práticas de testes</li>
   <li>Automação de testes</li>
-  
 </ul>
 
 <h3>Tecnologias Aplicadas</h3>
@@ -25,7 +24,7 @@
 <h3>Planejamento do Projeto</h3>
 <ul>
   <li>Execução de teste automático de unidade</li>
-  <li>Testar o sistema, aplicando correções de acordo com os resultados obtidos/li>
+  <li>Testar o sistema, aplicando correções de acordo com os resultados obtidos</li>
   <li>Elaborar o relatório dos testes de unidade e de integração</li>
 </ul>
 
