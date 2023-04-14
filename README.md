@@ -2,33 +2,33 @@
 
 <p align="center">Project made using C# by <b>Sheyenne de Morais Carvalho</b>
 
-<h3>Características</h3>
+<h3>Features</h3>
 <ul>
-  <li>Testes server-side</li>
-  <li>Planejamento de testes server-side</li>
-  <li>Análise do docuemnto de requisitos</li>
-  <li>Conceitos fundamentais</li>
-  <li>Tipos de testes</li>
-  <li>Técnicas de testes</li>
-  <li>Níveis de testes</li>
-  <li>Frameworks de teste em sistemas server-side</li>
-  <li>Práticas de testes</li>
-  <li>Automação de testes</li>
+  <li>Server-side tests</li>
+  <li>Server-side test planning</li>
+  <li>Requirements document analysis</li>
+  <li>Fundamental concepts</li>
+  <li>Test types</li>
+  <li>Testing techniques</li>
+  <li>Test levels</li>
+  <li>Testing frameworks in server-side systems</li>
+  <li>Testing practices</li>
+  <li>Test automation</li>
 </ul>
 
-<h3>Tecnologias Aplicadas</h3>
+<h3>Applied Technologies</h3>
 <ul>
   <li>C#</li>
 </ul>
 
-<h3>Planejamento do Projeto</h3>
+<h3>Project Planning</h3>
 <ul>
-  <li>Execução de teste automático de unidade</li>
-  <li>Testar o sistema, aplicando correções de acordo com os resultados obtidos</li>
-  <li>Elaborar o relatório dos testes de unidade e de integração</li>
+  <li>Running an automatic unit test</li>
+  <li>Testing the system, applying corrections according to the results obtained</li>
+  <li>Write the report of the unit and integration tests</li>
 </ul>
 
-<h3>Requerimentos de instalação</h3>
+<h3>Installation requirements</h3>
 <ul>
   <li>VS Code</li>
   <li>Node.js</li>
