@@ -1,4 +1,4 @@
-<h1 align="center">Execução de teste automático de integração do projeto API web</h1>
+<h1 align="center">Running the automatic integration test of the web API project</h1>
 
 <p align="center">Project made using C# by <b>Sheyenne de Morais Carvalho</b>
 
